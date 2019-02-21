@@ -1,2 +1,3 @@
 name: dioschwin
 age: 18
+bday: 09/05/00
