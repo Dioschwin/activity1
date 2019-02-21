@@ -1,2 +1,3 @@
 name: dioschwin
 age: 18
+hobby: reading
